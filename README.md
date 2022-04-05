@@ -5,3 +5,4 @@
 
 
 [制作记录](https://github.com/GretaHu10/Blog/blob/main/canvas.md)
+[点击预览](https://gretahu10.github.io/canvas_demo/index.html)
